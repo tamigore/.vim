@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/tamigore/Documents/42/Ft_printf/libft'
+let g:netrw_dirhist_2='/Users/tamigore/Documents/42/Ft_printf'
+let g:netrw_dirhist_3='/Users/tamigore/Documents/42/Ft_printf/includes'
+let g:netrw_dirhist_4='/Users/tamigore/Documents/42/Ft_printf/libft'
+let g:netrw_dirhist_5='/Users/tamigore/Documents/42/Ft_printf/objs'
